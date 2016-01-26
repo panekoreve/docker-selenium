@@ -5,7 +5,7 @@ MAINTAINER Selenium <selenium-developers@googlegroups.com>
 # Selenium Configuration
 #========================
 
-EXPOSE 4444
+EXPOSE 80
 
 ENV GRID_NEW_SESSION_WAIT_TIMEOUT -1
 ENV GRID_JETTY_MAX_THREADS -1
